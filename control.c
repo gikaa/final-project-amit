@@ -1,9 +1,4 @@
-/*
- * Sys.c
- *
- * Created: 3/22/2021 10:05:58 AM
- *  Author: Hatem
- */ 
+
 
 /*----------------------------------------------------------------------------*-
 sys_init() : to initialize system by initializing all modules, and setting the
