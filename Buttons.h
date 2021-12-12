@@ -1,9 +1,3 @@
-/*
- * Button.h
- *
- * Created: 3/20/2021 7:00:25 PM
- *  Author: Hatem
- */ 
 
 
 #ifndef BUTTON_H_
