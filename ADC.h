@@ -1,9 +1,3 @@
-/*
- * ADC.h
- *
- * Created: 3/22/2021 9:29:25 AM
- *  Author: Hatem
- */ 
 
 
 #ifndef ADC_H_
