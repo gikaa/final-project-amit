@@ -1,17 +1,4 @@
-/*
- * main.c
- *
- *  Created on: 5 Dec 2021
- *      Author: sa
- */
 
-
-/*
- * main.c
- *
- * Created: 3/20/2021 5:13:23 PM
- *  Author: sa
- */
 
 #define F_CPU 1000000UL
 #include <avr/io.h>
