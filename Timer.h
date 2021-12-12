@@ -1,9 +1,4 @@
-/*
- * Timer.h
- *
- * Created: 3/20/2021 5:16:13 PM
- *  Author: sa
- */ 
+
 
 
 #ifndef TIMER_H_
