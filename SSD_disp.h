@@ -1,9 +1,4 @@
-/*
- * ssd.h
- *
- * Created: 3/20/2021 5:59:41 PM
- *  Author: Hatem
- */ 
+
 
 
 #ifndef SSD_H_
