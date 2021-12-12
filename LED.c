@@ -1,9 +1,4 @@
-/*
- * led.c
- *
- * Created: 3/20/2021 5:26:45 PM
- *  Author: Hatem
- */ 
+
 
 
 #include "LED.h"
