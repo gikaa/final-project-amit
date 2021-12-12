@@ -1,9 +1,3 @@
-/*
- * cool_heat_elements.c
- *
- * Created: 3/20/2021 5:43:27 PM
- *  Author: Hatem
- */ 
 
 /*----------------------------------------------------------------------------*-
 Heater/Cooler Init. : to initialize cooler and heater pins by making them OUTPUT.
