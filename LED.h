@@ -1,9 +1,4 @@
-/*
- * led.h
- *
- * Created: 3/20/2021 5:26:58 PM
- *  Author: Hatem
- */ 
+
 
 
 #ifndef LED_H_
