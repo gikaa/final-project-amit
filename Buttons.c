@@ -1,9 +1,4 @@
-/*
- * Buttons.c
- *
- * Created: 3/20/2021 7:00:44 PM
- *  Author: Hatem
- */ 
+
 
 #include "Buttons.h"
 
