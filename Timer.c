@@ -1,9 +1,4 @@
-/*
- * Timer.c
- *
- * Created: 3/20/2021 5:16:25 PM
- *  Author: sa
- */ 
+
 
 
 #include "Timer.h"
