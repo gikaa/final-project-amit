@@ -1,9 +1,3 @@
-/*
- * GIE_Program.c
- *
- *  Created on: Oct 1, 2021
- *      Author: SA
- */
 
 #include"STD_TYPES.h"
 #include"BIT_MATH.h"
