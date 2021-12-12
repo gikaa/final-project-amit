@@ -1,9 +1,4 @@
-/*
- * ADC.c
- *
- * Created: 3/22/2021 9:29:36 AM
- *  Author: Hatem
- */ 
+
 #include "STD_TYPES.H"
 #include "ADC.h"
 
