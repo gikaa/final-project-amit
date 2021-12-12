@@ -1,9 +1,3 @@
-/*
- * Sys.h
- *
- * Created: 3/22/2021 10:06:13 AM
- *  Author: Hatem
- */ 
 
 
 #ifndef CONTROL_H_
